@@ -1,0 +1,14 @@
+Conversación para bot de reserva de boletas
+Bot: Hola me llamo mibot y el día de hoy te ayudare para realizar la reserva
+User: hola
+Bot: Para comenzar tu registro, me puedes decir tu nombre, por favor
+User: mi nombre es ....
+Bot: Muy bien, entonces cuantas boletas requieres
+User: son 4 boletas por favor
+Bot:muy bien, me puedes indicar tu correo para enviar la información de la reserva
+User: claro mi correo es jjjj
+Bot: es la primera vez que realizas una reserva conmigo
+User: no ya he realizado varias
+Bot: Gracias por tu reserva , revisa tu correo con la informacion , bye
+
+DefaultResponse: Gracias por tu reserva , revisa tu correo con la informacion

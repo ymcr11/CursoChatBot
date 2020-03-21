@@ -11,4 +11,6 @@ Bot: es la primera vez que realizas una reserva conmigo
 User: no ya he realizado varias
 Bot: Gracias por tu reserva , revisa tu correo con la informacion , bye
 
+Bot: me puedes indicar que tipo de asistente eres? 
+User: soy empleado
 DefaultResponse: Gracias por tu reserva , revisa tu correo con la informacion
